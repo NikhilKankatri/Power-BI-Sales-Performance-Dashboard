@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze sales performance, profita
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](sales-performance-dashboard.png)
+![Sales Performance Dashboard](Sales Performance Dashboard.png)
 
 ## Key KPIs
 
